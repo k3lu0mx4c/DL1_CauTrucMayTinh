@@ -1,5 +1,5 @@
 #include "Bai2.h"
-
+/////
 Qfloat::Qfloat() {
 
 }
