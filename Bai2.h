@@ -8,7 +8,7 @@ using namespace std;
 
 class Qfloat {
 private:
-	unsigned short nguyen;
+	short nguyen;// Phai de co dau, de luu dc 16 bit dau, 15 bit luu gia tri nguyen, con 1 bit am duong
 	unsigned int tp1, tp2, tp3;
 	unsigned short tp4;
 public:
